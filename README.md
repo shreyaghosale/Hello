@@ -1,2 +1,5 @@
-# Hello
-This is hello program weitten in c language
+#include(stido.h)
+void main()
+{
+print("Hello...!!!");
+}
